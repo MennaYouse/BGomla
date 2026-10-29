@@ -1,0 +1,2 @@
+# BGomla
+add table customer 
